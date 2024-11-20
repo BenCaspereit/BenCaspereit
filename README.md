@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student at the Free University of Berlin and I use Github just for the features and to share projekts with other students
 <!--
 **BenCaspereit/BenCaspereit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
